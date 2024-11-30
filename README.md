@@ -90,8 +90,8 @@ Este repositorio contiene los certificados de los cursos que he completado desde
 
 ## Cómo Usar Este Repositorio
 
-1. Clona este repositorio en tu máquina local.
-2. Navega a la carpeta donde se encuentran los certificados.
-3. Abre los archivos de los certificados para ver los detalles de cada curso completado.
+1. Clonar este repositorio en tu máquina local.
+2. Navegar a la carpeta donde se encuentran los certificados.
+3. Abrir los archivos de los certificados para ver los detalles de cada curso completado.
 
-¡Gracias por visitar mi repositorio de certificados de cursos!
+¡Gracias por visitar mi repositorio de certificados de cursos!  [Conectá por Linkedin](https://www.linkedin.com/in/jacque-dominguez/).
